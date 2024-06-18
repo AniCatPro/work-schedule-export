@@ -4,7 +4,7 @@
 3.	Необходимо отобразить все задачи проекта: вкладка «Вид», «Структура», выбираем «Все подзадачи».
 
 Этап 0: Скачайте все файлы репозитория (выполняем один раз)
-1. Скачайте файлы репозитория - https://github.com/AniCatPro/work-schedule-export/archive/refs/heads/main.zip
+1. Скачайте файлы репозитория - [https://github.com/AniCatPro/work-schedule-export/archive/refs/heads/main.zip](https://github.com/AniCatPro/work-schedule-export/releases/download/Main/VBA.zip)
 2. Откройте VBA ГПР.mpp;
 3. Перейдите во вкладку "Файл", "Сведения", "Организатор";
 4. В открытом окне "Организатор" выберите вкладку "Схемы";
