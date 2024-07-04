@@ -1,4 +1,4 @@
-![image](https://github.com/AniCatPro/work-schedule-export/assets/24957289/25cbb504-c632-4c1c-b9fe-b22c76b161c0)
+<img src="https://github.com/AniCatPro/work-schedule-export/assets/24957289/25cbb504-c632-4c1c-b9fe-b22c76b161c0" alt="image" width="400">
 
 ## ВНИМАНИЕ ⚠ 
 1. Убедитесь, что во вкладке «Формат диаграммы Ганта» включен пункт `«Суммарная задача проекта»` и `«Суммарные задачи»`.
